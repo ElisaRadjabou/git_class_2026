@@ -32,9 +32,12 @@ N’ayant rien de tout cela à la maison, j’ai badigeonné mes lamelles d’au
 Pendant ce temps, versez 2 à 3 filets d’huile d’olive dans une grande poêle à feu moyen. Ajoutez l’oignon, l’ail et l’origan séché et faites cuire 10 minutes, afin que l’oignon devienne transparent et que l’ail colore à peine.
 Si vous utilisez des tomates pelées, hachez-les grossièrement. Si vous utilisez des tomates fraîches, incisez-les légèrement et ébouillantez-les 40 secondes. Puis, placez-les dans un saladier rempli d’eau fraîche pendant 30 secondes. Ôtez la peau et les pépins et coupez-les en gros morceaux. Ajoutez la chair des tomates ou les tomates pelées à l’oignon, l’ail et l’origan. 
 
-Mélangez bien le tout, couvrez et laissez mijoter pendant 15 minutes.
+Mélangez bien le tout, couvrez et laissez **mijoter** pendant 15 minutes.
+
 Quand la sauce a bien réduit, salez, poivrez et ajoutez une larme de vinaigre de vin et le basilic. Vous pouvez laisser les morceaux de tomates entiers ou les réduire en purée.
-Prenez un plat à four de 25 cm x 12-15cm. Versez une fine couche de sauce tomate, saupoudrez de Parmesan et recouvrez d’une couche d’aubergines. Répétez jusqu’à épuisement des ingrédients, en terminant par une couche de sauce tomate et de Parmesan. J’aime bien mélanger la chapelure dans l’huile d’olive avec un peu d’origan séché et saupoudrer le tout sur le Parmesan (je ne l’ai pas fait).
+Prenez un plat à four de 25 cm x 12-15cm. Versez une fine couche de sauce tomate, **saupoudrez de Parmesan** et recouvrez d’une couche d’aubergines. Répétez jusqu’à épuisement des ingrédients, en terminant par une couche de sauce tomate et de Parmesan. 
+
+J’aime bien mélanger la chapelure dans l’huile d’olive avec un peu d’origan séché et saupoudrer le tout sur le Parmesan (je ne l’ai pas fait).
 Parfois je sers ce plat avec une boule de mozzarella effilée sur le dessus et le résultat est très sympa aussi.
 Enfournez le plat à 190°C pour une demi-heure, jusqu’à ce qu’il devienne doré, croustillant et bouillonnant.
 
