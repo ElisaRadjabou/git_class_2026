@@ -6,20 +6,34 @@
 *Temps de cuisson* : 50 minutes 
 
 ## Ingredients 
+
 Pour 6 personnes :
 
+
     - 3 belles aubergines bien fermes
+
     - 3 ou 4 cuillères à soupe d’huile d’olive
+
     - 1 oignon, émincé et finement coupé
+
     - 1/2 tête d’ail printanier, si vous en trouvez, sinon 1 gousse d’ail pelée et émincée
+
     - 1 belle cuillère à café d’origan séché
+
     - 1 cuillère à café de vinaigre de vin
+
     - 2 boites de 400 g de tomates concassées de bonne qualité ou 1kg de tomates fraîches bien mûres.
+
     - 1 pincée de sel de mer fraîchement moulu
+
     - 1 pincée de poivre noir
+
     - 4 belles poignées de Parmesan fraîchement râpé
+
     - 2 poignées de chapelure
+
     - 10 feuilles de basilic frais, hachées.
+
     - En option : 1 boule de 150g de mozzarella di buffala
 
 ![Immagine di una parmigiana](recipes/parmigiana.jpeg)
@@ -32,7 +46,11 @@ Avant toute chose : enlevez la queue des aubergines, coupez-les dans la longueur
 N’ayant rien de tout cela à la maison, j’ai badigeonné mes lamelles d’aubergine d’huile d’olive avec un pinceau. Je les ai mises sur une plaque de cuisson recouverte de papier sulfurisé et je les ai fait cuire 10 minutes de chaque côté en chaleur tournante (donc 20 minutes en tout, j’ai juste retourné à mi cuisson) dans un four préchauffé à 210°C .
 
 Pendant ce temps, versez 2 à 3 filets d’huile d’olive dans une grande poêle à feu moyen. Ajoutez l’oignon, l’ail et l’origan séché et faites cuire 10 minutes, afin que l’oignon devienne transparent et que l’ail colore à peine.
-Si vous utilisez des tomates pelées, hachez-les grossièrement. Si vous utilisez des tomates fraîches, incisez-les légèrement et ébouillantez-les 40 secondes. Puis, placez-les dans un saladier rempli d’eau fraîche pendant 30 secondes. Ôtez la peau et les pépins et coupez-les en gros morceaux. Ajoutez la chair des tomates ou les tomates pelées à l’oignon, l’ail et l’origan. 
+Si vous utilisez des tomates pelées, hachez-les grossièrement. Si vous utilisez des tomates fraîches, incisez-les légèrement et ébouillantez-les 40 secondes. 
+
+![Immagine di una melanznae](recipes/melanzane.jpeg)
+
+Puis, placez-les dans un saladier rempli d’eau fraîche pendant 30 secondes. Ôtez la peau et les pépins et coupez-les en gros morceaux. Ajoutez la chair des tomates ou les tomates pelées à l’oignon, l’ail et l’origan. 
 
 Mélangez bien le tout, couvrez et laissez **mijoter** pendant 15 minutes.
 
