@@ -1,10 +1,9 @@
-﻿# Parmigiana  
+﻿# Ricetta di **Parmigiana** 
 
-![parmigiana.jpeg](Desktop/parmigiana.jpeg)
 
-Temps de préparation : 30 minutes 
+*Temps de préparation* : 30 minutes 
 
-Temps de cuisson : 50 minutes 
+*Temps de cuisson* : 50 minutes 
 
 ## Ingredients 
 Pour 6 personnes :
@@ -22,6 +21,9 @@ Pour 6 personnes :
     - 2 poignées de chapelure
     - 10 feuilles de basilic frais, hachées.
     - En option : 1 boule de 150g de mozzarella di buffala
+
+![Immagine di una parmigiana](recipes/parmigiana.jpeg)
+
 
 ## Preparation 
 
