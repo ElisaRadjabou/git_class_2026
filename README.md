@@ -22,9 +22,9 @@ Another modification again..
 
 Here it's a remote modification !!
 
-<<<<<<< HEAD
 Local modification 
-=======
 
 Remote modification again. 
->>>>>>> c9f07633b05dc5d92a633ff31e9a1afb9ebdef2d
+
+
+remote modification 3 time
